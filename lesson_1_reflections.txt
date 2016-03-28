@@ -1,0 +1,29 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+I think using diff is a very efficient way of checking my code,
+because when I update my code,
+I usually make a bunch of changes in the code and the rest are still unchanged,
+using diff can quickly help me find out if I make some typo mistakes,
+or neglect somewhere
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Well I think it's very useful for me to take a look at my previous work,
+so I can figure out where I lost some thoughts,
+or if there's a better way of writing code
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+the pros: I think it becomes flexible for the user to set the commits when he thinks that it's time for commits
+the cons: I think sometimes it's not safe for the user, like when there's a blackout and you don't save anything
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Well I thinnk maybe the users between Git and Google Docs are different.
+The codes are more related and once you change one file, you must change other ones,
+while people usually focus one single file in Google Docs
+How can you use the commands git log and git diff to view the history of files?
+First I use git log to find out the target version which I need to check,
+then I use git diff ID1 iD2 to find out the changes between older version and new version
+
+How might using version control make you more confident to make changes that could break something?
+I think I can use it to find out at which point I made the bug and compare the codes to resolve it
+
+Now that you have your workspace set up, what do you want to try using Git for?
+I would like to use git to save all my codes step by step,
+so that I can review my thoughts anytime
