@@ -1,0 +1,6 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area is used for coders to put files together to make a commit temporarily,
+which allows to make changes before final commit,
+the value it offers is a bunch of files that may compose of a commit
+
+
